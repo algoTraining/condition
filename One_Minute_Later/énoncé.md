@@ -1,0 +1,1 @@
+Écrivez un algo qui lira l'heure et les minutes et qui affichera l'heure et les minutes une minute plus tard.
